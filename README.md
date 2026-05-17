@@ -1,16 +1,27 @@
-## Hi there 👋
+# Archivo Bush
 
-<!--
-**archivobush/archivobush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Archivo Histórico y Genealógico de la Familia Bush
 
-Here are some ideas to get you started:
+Bienvenido al repositorio oficial del proyecto Archivo Bush.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este espacio tiene como objetivo preservar, organizar y compartir la memoria histórica, genealógica y documental de los descendientes de la Familia Bush.
+
+## Objetivos del proyecto
+
+- Preservar fotografías y documentos históricos
+- Construir el árbol genealógico familiar
+- Registrar historias, recuerdos y testimonios
+- Centralizar archivos históricos familiares
+- Crear un legado digital para futuras generaciones
+
+## Estado del proyecto
+
+🚧 Proyecto en construcción.
+
+## Administrador del Archivo
+
+Jesús Bush Moya
+
+---
+
+"La memoria familiar es el puente entre generaciones."
